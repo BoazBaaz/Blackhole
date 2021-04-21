@@ -940,7 +940,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Stop the blackhole form growing to big.
+  m_text: Stop the blackhole from growing to big.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0db6a42ff5a3c2d458d3e78d577646cf, type: 2}
   m_sharedMaterial: {fileID: 3991661583952376827, guid: 0db6a42ff5a3c2d458d3e78d577646cf,
